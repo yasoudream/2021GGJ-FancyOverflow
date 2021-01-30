@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b494921ad83590240bff7a720934d391, type: 3}
+  m_Name: Nose
+  m_EditorClassIdentifier: 
+  durabilityValue: 0
+  durabilityType: 1
+  cardName: "\u9F3B\u5B50"
+  cardTexture: {fileID: 21300000, guid: 1cf0f92e7cba05447aeea58f6427a38a, type: 3}
+  cardType: 1
+  cardRate: 30
+  cardDescription: "\u5728\u80CC\u5305\u4E2D\u4F7F\u7528\r\n\u53EF\u4EE5\u55C5\u51FA\u7269\u54C1\u6E96\u78BA\u7684\u8010\u4E45\u503C"
+  IsUseable: 1
+  buffType: 1
+  UseState: 0
+  durabilityLoss: 15

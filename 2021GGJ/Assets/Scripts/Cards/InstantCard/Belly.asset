@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 781fbdb9e8ff5a048b441307e1df814c, type: 3}
+  m_Name: Belly
+  m_EditorClassIdentifier: 
+  durabilityValue: 0
+  durabilityType: 1
+  cardName: "\u809A\u5B50"
+  cardTexture: {fileID: 21300000, guid: 5196df19deb61ed4789aaa13f588389f, type: 3}
+  cardType: 2
+  cardRate: 10
+  cardDescription: "\u80A5\u5B85\u7684\u809A\u8169\uFF0C\u860A\u542B\u71DF\u990A\n\u4F7F\u7528\u5F8C\u70BA\u6240\u6709\u7269\u54C1\u589E\u52A0\u8F03\u9AD8\u8010\u4E45\u503C"
+  IsUseable: 1
+  bellyRate: 1
