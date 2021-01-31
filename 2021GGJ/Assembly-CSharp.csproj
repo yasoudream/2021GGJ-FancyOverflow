@@ -104,37 +104,37 @@
     <Compile Include="Assets\Scripts\UI\StartButtonStar.cs" />
     <Compile Include="Assets\Scripts\UI\StartWindFlow.cs" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>D:/UnityGames/2021GGJ/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/DELL/Desktop/GameJam/Project/2021GGJ-FancyOverflow/2021GGJ/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>D:/UnityGames/2021GGJ/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>C:/Users/DELL/Desktop/GameJam/Project/2021GGJ-FancyOverflow/2021GGJ/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/UnityGames/2021GGJ/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/DELL/Desktop/GameJam/Project/2021GGJ-FancyOverflow/2021GGJ/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>D:/UnityGames/2021GGJ/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/DELL/Desktop/GameJam/Project/2021GGJ-FancyOverflow/2021GGJ/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>D:/UnityGames/2021GGJ/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/DELL/Desktop/GameJam/Project/2021GGJ-FancyOverflow/2021GGJ/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/UnityGames/2021GGJ/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/DELL/Desktop/GameJam/Project/2021GGJ-FancyOverflow/2021GGJ/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>D:/UnityGames/2021GGJ/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>C:/Users/DELL/Desktop/GameJam/Project/2021GGJ-FancyOverflow/2021GGJ/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>D:/UnityGames/2021GGJ/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+      <HintPath>C:/Users/DELL/Desktop/GameJam/Project/2021GGJ-FancyOverflow/2021GGJ/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
-      <HintPath>D:/UnityGames/2021GGJ/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+      <HintPath>C:/Users/DELL/Desktop/GameJam/Project/2021GGJ-FancyOverflow/2021GGJ/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/UnityGames/2021GGJ/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/DELL/Desktop/GameJam/Project/2021GGJ-FancyOverflow/2021GGJ/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>D:/UnityGames/2021GGJ/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/DELL/Desktop/GameJam/Project/2021GGJ-FancyOverflow/2021GGJ/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>D:/Unity201932/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
